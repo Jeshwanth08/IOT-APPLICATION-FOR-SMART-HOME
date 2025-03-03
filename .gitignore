@@ -1,0 +1,4 @@
+*.pyc
+/WebApp/venv_win/*
+/WebApp/venv/*
+/WebApp/.vscode/*
